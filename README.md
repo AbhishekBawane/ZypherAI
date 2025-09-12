@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+ZypherAI – Modern AI Assistant Frontend
 
-First, run the development server:
+ZypherAI is a frontend project inspired by industry-leading AI platforms such as ChatGPT, Copilot, Humata, and OpenAI’s tools.
+The project demonstrates how to design and implement AI-inspired user experiences using Next.js, React, and TailwindCSS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🎯 Objective
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The goal of ZypherAI is to replicate and enhance the user interface patterns of existing AI tools.
+By rebuilding these features, the project showcases skills in:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Responsive UI design
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Modern React patterns (App Router, Hooks, Client Components)
 
-## Learn More
+Interactive state-driven components
 
-To learn more about Next.js, take a look at the following resources:
+Scalable, maintainable code practices
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🚀 Features
+🔹 Navbar & Sidebar
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Responsive navbar inspired by YouTube and ChatGPT.
 
-## Deploy on Vercel
+Sidebar navigation with collapsible menu and dropdown for Settings.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
++ New Chat button to mimic ChatGPT’s quick-start workflow.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔹 Hero Section
+
+Prominent landing hero with background image.
+
+Centered call-to-action: “Ask me about”, encouraging interaction.
+
+Fully responsive for mobile and desktop layouts.
+
+🔹 Search & Chat Bar
+
+Behavior modeled after ChatGPT’s input area:
+
+On first visit, input bar is centered on the screen.
+
+After first query, bar shifts to the bottom (chat-style).
+
+Messages appear in chat bubbles (user on right, AI on left).
+
+Default AI response: “🎉 Thank You For Trying My Front-end Project 🎉”.
+
+🔹 AI Model Selector
+
+Dropdown for selecting between multiple AI models:
+
+ChatGPT-1, Humata, Copilate, OpenAI.
+
+Selector persists above input, allowing users to switch AI mid-chat.
+
+🔹 Pricing Section
+
+SaaS-style pricing tiers: Free, Personal, Family, Pro.
+
+Different feature sets rendered dynamically from an array.
+
+Inspired by subscription models from OpenAI and other SaaS platforms.
+
+🔹 Authentication Page
+
+Login & Signup forms with standard fields:
+
+Username, Email, Password, Confirm Password.
+
+Button text changes dynamically based on mode (Sign Up / Log In).
+
+🔹 FAQ Section
+
+Collapsible accordion for common questions.
+
+Minimalistic design similar to landing pages of modern AI tools.
+
+🛠️ Tech Stack
+
+Framework: Next.js (App Router, TypeScript ready)
+
+Frontend Library: React (Hooks, Client Components)
+
+Styling: TailwindCSS
+
+Icons: Heroicons, React-Icons
+
+🌐 Deployment
+
+Deploy easily on Vercel or Netlify.
+(Add your live project link here once deployed.)
+
+📌 Future Enhancements
+
+Integration with a real AI backend (e.g., OpenAI API).
+
+Persistent chat history per user.
+
+Authentication with JWT or OAuth.
+
+Theme toggle (dark/light).
+
+📖 Conclusion
+
+ZypherAI is a practice frontend project showcasing how to reimagine AI-powered user experiences.
+It combines inspirations from ChatGPT, Copilot, Humata, and YouTube, while building a unique brand identity as ZypherAI.
+
+This project highlights my ability to:
+
+Recreate complex UIs from reference products
+
+Write clean, modular, and scalable React/Next.js code
+
+Deliver responsive, accessible, and production-ready frontend solutions
