@@ -25,7 +25,7 @@ export default function AboutUs() {
             <h2 className="text-2xl font-semibold mb-4 text-blue-400">Our Mission</h2>
             <p className="text-gray-300">
               To create an AI platform that enables everyone to explore, learn,
-              and build without boundaries — whether it's generating ideas,
+              and build without boundaries — whether it is generating ideas,
               creating content, or boosting productivity.
             </p>
           </div>
@@ -43,7 +43,7 @@ export default function AboutUs() {
         <div className="max-w-6xl mx-auto mt-16 text-center">
           <h2 className="text-3xl font-bold mb-6">Meet the Team</h2>
           <p className="text-gray-400 mb-10">
-            We’re a passionate group of developers, designers, and innovators building the future of AI.
+            I am passionate group of developers, designers, and innovators building the future of AI.
           </p>
 
           <div className="w-full flex flex-col justify-center items-center align-center">
@@ -53,13 +53,14 @@ export default function AboutUs() {
               <p className="text-gray-400">Frontend Developer, Disgner</p>
             </div>
             <p>I am a passionate Frontend Developer with a strong focus on building responsive, user-friendly, 
-                and visually appealing web applications. Skilled in HTML, CSS, JavaScript, and React, I enjoy 
-                turning ideas into functional interfaces that enhance user experiences. I have experience working 
-                with modern libraries, frameworks, and tools like Material UI, Tailwind CSS, and Bootstrap to create 
-                clean and scalable designs. I also pay close attention to performance optimization and cross-device
-                 compatibility, ensuring that every project I build is both efficient and accessible. As a fresher, I am 
-                 eager to contribute my creativity and technical skills to real-world projects while continuously learning 
-                 and growing in the field of frontend development.</p>
+    and visually appealing web applications. Skilled in HTML, CSS, JavaScript, and React, I enjoy 
+    turning ideas into functional interfaces that enhance user experiences. I have experience working 
+    with modern libraries, frameworks, and tools like Material UI, Tailwind CSS, and Bootstrap to create 
+    clean and scalable designs. I also pay close attention to performance optimization and cross-device
+    compatibility, ensuring that every project I build is both efficient and accessible. As a fresher, I am 
+    eager to contribute my creativity and technical skills to real-world projects while continuously learning 
+    and growing in the field of frontend development.</p>
+
           </div>
         </div>
       </section>
