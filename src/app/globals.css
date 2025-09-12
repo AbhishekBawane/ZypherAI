@@ -29,11 +29,11 @@ body {
 .hero{
   margin-top: 60px;
   height: 600px;
-  background-image: url("@/Image/Hero-img.jpg");
+  background-image: url("../Image/Hero-img.jpg");
   background-size: cover;
 }
 .hero-sect{
-  background-image: url("@/Image/Logo-ZA.png");
+  background-image: url("../Image/Logo-ZA.png");
   background-size: cover;
   background-position: center;
 }
