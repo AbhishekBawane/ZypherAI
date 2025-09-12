@@ -88,8 +88,8 @@ Icons: Heroicons, React-Icons
 
 🌐 Deployment
 
-Deploy easily on Vercel or Netlify.
-(Add your live project link here once deployed.)
+Deploy easily on Vercel.
+[(Add your live project link here once deployed.)](https://zypher-ai-og1.vercel.app)
 
 📌 Future Enhancements
 
