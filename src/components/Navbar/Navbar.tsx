@@ -4,7 +4,6 @@ import { useState } from "react";
 import { Bars3Icon, XMarkIcon, PlusIcon } from "@heroicons/react/24/outline";
 import  Image  from "next/image"
 import logo from "@/Image/Logo-ZA.png"
-import { Assistant } from "next/font/google";
 import { useRouter } from "next/navigation";
 
 export default function Navbar() {
