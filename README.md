@@ -93,7 +93,7 @@ Collapsible accordion for common questions.
 
 Minimalistic design similar to landing pages of modern AI tools.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Framework: Next.js (App Router, TypeScript ready)
 
@@ -103,12 +103,12 @@ Styling: TailwindCSS
 
 Icons: Heroicons, React-Icons
 
-🌐 Deployment
+## 🌐 Deployment
 
-Deploy easily on Vercel.
-[(Add your live project link here once deployed.)](https://zypher-ai-og1.vercel.app)
+### Deploy easily on Vercel.
+[ https://zypher-ai-og1.vercel.app ]
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 Integration with a real AI backend (e.g., OpenAI API).
 
@@ -118,7 +118,7 @@ Authentication with JWT or OAuth.
 
 Theme toggle (dark/light).
 
-📖 Conclusion
+## 📖 Conclusion
 
 ZypherAI is a practice frontend project showcasing how to reimagine AI-powered user experiences.
 It combines inspirations from ChatGPT, Copilot, Humata, and YouTube, while building a unique brand identity as ZypherAI.
