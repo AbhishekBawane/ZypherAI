@@ -17,24 +17,23 @@ Interactive state-driven components
 
 Scalable, maintainable code practices
 
- **Install dependencies**
+ 1. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Install required libraries for the assignment** , ie, TanStack Query, Tailwind CSS, and  shadcn/ui
-4. **Start the JSON Server (Backend API)**
+2. **Install required libraries for the assignment** , ie Tailwind CSS
+3. **Start the JSON Server (Backend API)**
    ```bash
    npm run server
    ```
    The API will run on `http://localhost:3001`
 
-5. **Start the Development Server (in a new terminal)**
+4. **Start the Development Server (in a new terminal)**
    ```bash
    npm run dev
    ```
    The app will run on `http://localhost:5173`
-
 🚀 Features
 🔹 Navbar & Sidebar
 
