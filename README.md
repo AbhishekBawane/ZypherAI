@@ -1,10 +1,10 @@
 
-#ZypherAI – Modern AI Assistant Frontend
+# ZypherAI – Modern AI Assistant Frontend
 
 ZypherAI is a frontend project inspired by industry-leading AI platforms such as ChatGPT, Copilot, Humata, and OpenAI’s tools.
 The project demonstrates how to design and implement AI-inspired user experiences using Next.js, React, and TailwindCSS.
 
-##🎯 Objective
+## 🎯 Objective
 
 The goal of ZypherAI is to replicate and enhance the user interface patterns of existing AI tools.
 By rebuilding these features, the project showcases skills in:
