@@ -22,7 +22,7 @@ Scalable, maintainable code practices
    npm install
    ```
 
-2. **Install required libraries for the assignment** , ie Tailwind CSS
+2. **Install required libraries for the assignment** , ie Tailwind CSS, Heroicons
 3. **Start the JSON Server (Backend API)**
    ```bash
    npm run server
